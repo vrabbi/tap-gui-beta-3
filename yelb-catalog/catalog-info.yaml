@@ -17,3 +17,4 @@ spec:
     - ./domains/cloudapps-domain.yaml
     - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/vrabbi/scott-petclinic/blob/master/catalog-info.yaml
+    - https://github.com/vrabbi/tanzu-java-web-app/blob/master/catalog-info.yaml
