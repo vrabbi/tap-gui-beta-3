@@ -18,3 +18,4 @@ spec:
     - https://github.com/sample-accelerators/tanzu-java-web-app/blob/main/catalog/catalog-info.yaml
     - https://github.com/vrabbi/scott-petclinic/blob/master/catalog-info.yaml
     - https://github.com/vrabbi/tanzu-java-web-app/blob/master/catalog-info.yaml
+    - https://github.com/vrabbi/tap-workshop/blob/main/catalog-info.yaml
