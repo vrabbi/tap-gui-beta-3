@@ -10,7 +10,7 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
   links:
     - url: 'http://yelb.eks.vrabbi.cloud/'
-      title: 'Yelb UI Information'
+      title: 'Yelb UI'
       icon: locallibrary
 spec:
   type: service
