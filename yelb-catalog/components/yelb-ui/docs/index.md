@@ -1,4 +1,4 @@
-# yelb ui
+# yelb ui Test live reload
 
 This is the user interface module. It's an Angular2 application that uses the VMware open source [Clarity framework](https://clarity.design/).
 
